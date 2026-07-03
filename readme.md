@@ -1,10 +1,10 @@
-# ❤️ Heart Disease Prediction using Machine Learning
+# Heart Disease Prediction using Machine Learning
 
 A Machine Learning project that predicts the probability of heart disease using patient health data. This project demonstrates a complete ML pipeline, including data preprocessing, feature engineering, model training, prediction generation, and submission file creation using a **Random Forest Classifier**.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The objective of this project is to build a machine learning model capable of predicting whether a patient is likely to have heart disease based on various medical attributes.
 
@@ -20,7 +20,7 @@ The workflow includes:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Heart-Disease-Prediction/
@@ -35,7 +35,7 @@ Heart-Disease-Prediction/
 
 ---
 
-## 🚀 Features
+## Features
 
 - Load and preprocess datasets
 - Handle missing values
@@ -46,7 +46,7 @@ Heart-Disease-Prediction/
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3.x
 - Pandas
@@ -56,7 +56,7 @@ Heart-Disease-Prediction/
 
 ---
 
-## 📊 Machine Learning Workflow
+## Machine Learning Workflow
 
 ### 1. Import Libraries
 
